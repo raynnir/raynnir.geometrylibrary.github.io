@@ -1,4 +1,8 @@
 @import url('https://fonts.googleapis.com/css?family=Patua+One|Prosto+One&subset=cyrillic,latin-ext');
+
+	
+@import url("https://netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css");
+
 body {
     background-image: url("../img/geometry.png");
 
