@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css?family=Patua+One|Prosto+One&subset=cyrillic,latin-ext');
+body {
+    background-image: url("../img/geometry.png");
+
+
+    -webkit-font-smoothing: antialiased;
+    -webkit-overflow-scroling: touch;
+
+}
+
+h1 {
+    font-family: Patua One;
+
+}
+
+h2 {
+    font-family: Prosto one;
+    font-size: 30px;
+}
+
+h3{
+    font-family: Prosto One;
+    font-size: 30px;
+    
+}
+
+p {
+    line-height: 20px;
+    margin-bottom: 25px;
+}
+
+.centered {
+    text-align: center;
+    
+}
+
+a:hover,a:focus {
+    color:white;
+}
+
+hr{
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}
+
+.navbar{
+    font-family: Prosto one;
+    font-weight: 800;
+    font-size: 14px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-transform: uppercase;
+}
+
+.navbar-inverse {
+    border-color: #080808;
+
+}
+
+.navbar-inverse .navbar-nav > .active > a{
+    color: darkviolet;
+}
+
+
+
+
+
